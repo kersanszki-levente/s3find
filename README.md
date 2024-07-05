@@ -14,7 +14,7 @@ cargo build --release
 
 ## License
 
-This project is licensed under the [GLWTSPL](/LICENSE).
+This project is licensed under the [GLWTSPL](/LICENSE.txt).
 
 ![Good Luck](https://github.com/me-shaon/GLWTPL/raw/master/good-luck.gif)
 
